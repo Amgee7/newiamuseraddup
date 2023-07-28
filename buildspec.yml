@@ -5,7 +5,3 @@ Resources:
     Properties:
       UserName: user1Amgee
 
-  User2:
-    Type: AWS::IAM::User
-    Properties:
-      UserName: user2Amgee
